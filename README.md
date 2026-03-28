@@ -2,9 +2,9 @@
 # Open Source Software Audit Project
 
 ##  Author
--Name : Swetalina Sarangi
--Registration Number : 24BCE10419
--Chosen Software : Git
+- Name : Swetalina Sarangi
+- Registration Number : 24BCE10419
+- Chosen Software : Git
 
 ##  Course
 Open Source Software
