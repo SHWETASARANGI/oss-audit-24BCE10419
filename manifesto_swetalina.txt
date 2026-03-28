@@ -1,0 +1,9 @@
+Open Source Manifesto
+Author: swetalina
+Date: 28 March 2026
+
+I believe in the power of open source.
+Using tools like git, I embrace collaboration and transparency.
+To me, freedom means innovation, and it drives my passion for technology.
+I aspire to build a useful open-source app and share it with the world.
+Through open source, we create, innovate, and grow together.
