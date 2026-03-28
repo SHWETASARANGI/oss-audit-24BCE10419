@@ -82,7 +82,7 @@ Displays system details such as:
 ---
 
 ## How to Run the Project
----
+
 ### 1. Navigate to the project directory
 ```bash
 cd ~/oss_project
