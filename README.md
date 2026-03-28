@@ -115,11 +115,11 @@ Each script produces output in the terminal. Screenshots of execution are includ
 ---
 
 ##  Learning Outcomes
--Understanding of Linux commands and environment
--Shell scripting fundamentals
--File handling and permissions
--Log file analysis
--Open-source software concepts
+- Understanding of Linux commands and environment
+- Shell scripting fundamentals
+- File handling and permissions
+- Log file analysis
+- Open-source software concepts
 
 ---
 
