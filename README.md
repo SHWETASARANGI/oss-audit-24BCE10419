@@ -83,23 +83,31 @@ Displays system details such as:
 
 ## How to Run the Project
 
+---
+
 ### 1. Navigate to the project directory
 ```bash
 cd ~/oss_project
+```
 
 ---
 
 ### 2. Give execution permission
+```bash
 chmod +x *.sh
+```
 ---
 
 ### 3. Run the Scripts
+```bash
 ./system_id.sh
 ./package_inspector.sh
 ./disk_auditor.sh
 ./log_analyzer.sh /var/log/dpkg.log
 ./manifesto_generator.sh
+```
 ---
+
 ##  Outputs
 Each script produces output in the terminal. Screenshots of execution are included in the project report.
 
